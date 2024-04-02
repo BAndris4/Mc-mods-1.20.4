@@ -1,7 +1,7 @@
 <h1>Perfomance, segédmodok </h1>
 
 <b>[Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)</b> - <i>Tab lenyomásakor kiirja a tényleges pinget</i> <br />
-<b>[Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)</b> - <i>Nem csak 100%, hanem 1200%-ig lehet húzni a brigthnesst</i> <br />
+<b>[Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)</b> - <i>Nem csak 100%, hanem 1200%-ig lehet húzni a brightness-t</i> <br />
 <b>[Continuity](https://modrinth.com/mod/continuity)</b> - <i>Összekapcsolja a textúrákat (üveg, kőzetek)</i> <br />
 <b>[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)</b> - <i>Ha ki vagy tabolva a játékból, akkor nem használja feleslegesen az erőforrást, lekorlátozza az FPS-t 15-re</i> <br />
 <b>[Enhanced Block Entities](https://modrinth.com/mod/ebe)</b> - <i>Az ágynál, chesteknél entity modell helyett block modelleket használ</i> <br />
